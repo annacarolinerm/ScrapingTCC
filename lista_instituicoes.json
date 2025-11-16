@@ -1,0 +1,203 @@
+{
+  "IFAC": {
+    "nome": "Instituto Federal do Acre",
+    "url": "https://integra.ifac.edu.br",
+    "uf": "AC"
+  },
+  "IFAL": {
+    "nome": "Instituto Federal de Alagoas",
+    "url": "https://integra.ifal.edu.br",
+    "uf": "AL"
+  },
+  "IFAP": {
+    "nome": "Instituto Federal do Amapá",
+    "url": "https://integra.ifap.edu.br",
+    "uf": "AP"
+  },
+  "IFAM": {
+    "nome": "Instituto Federal do Amazonas",
+    "url": "https://integra.ifam.edu.br",
+    "uf": "AM"
+  },
+  "IFBA": {
+    "nome": "Instituto Federal da Bahia",
+    "url": "https://integra.ifba.edu.br",
+    "uf": "BA"
+  },
+  "IFBAIANO": {
+    "nome": "Instituto Federal Baiano",
+    "url": "https://integra.ifbaiano.edu.br",
+    "uf": "BA"
+  },
+  "IFB": {
+    "nome": "Instituto Federal de Brasília",
+    "url": "https://integra.ifb.edu.br",
+    "uf": "DF"
+  },
+  "IFCE": {
+    "nome": "Instituto Federal do Ceará",
+    "url": "https://integra.ifce.edu.br",
+    "uf": "CE"
+  },
+  "IFES": {
+    "nome": "Instituto Federal do Espírito Santo",
+    "url": "https://integra.ifes.edu.br",
+    "uf": "ES"
+  },
+  "IFG": {
+    "nome": "Instituto Federal de Goiás",
+    "url": "https://integra.ifg.edu.br",
+    "uf": "GO"
+  },
+  "IFGOIANO": {
+    "nome": "Instituto Federal Goiano",
+    "url": "https://integra.ifgoiano.edu.br",
+    "uf": "GO"
+  },
+  "IFMA": {
+    "nome": "Instituto Federal do Maranhão",
+    "url": "https://integra.ifma.edu.br",
+    "uf": "MA"
+  },
+  "IFMG": {
+    "nome": "Instituto Federal de Minas Gerais",
+    "url": "https://integra.ifmg.edu.br",
+    "uf": "MG"
+  },
+  "IFNMG": {
+    "nome": "Instituto Federal do Norte de Minas Gerais",
+    "url": "https://integra.ifnmg.edu.br",
+    "uf": "MG"
+  },
+  "IFSUDESTEMG": {
+    "nome": "Instituto Federal do Sudeste de Minas Gerais",
+    "url": "https://integra.ifsudestemg.edu.br",
+    "uf": "MG"
+  },
+  "IFSULDEMINAS": {
+    "nome": "Instituto Federal do Sul de Minas Gerais",
+    "url": "https://integra.ifsuldeminas.edu.br",
+    "uf": "MG"
+  },
+  "IFTM": {
+    "nome": "Instituto Federal do Triângulo Mineiro",
+    "url": "https://integra.iftm.edu.br",
+    "uf": "MG"
+  },
+  "IFMT": {
+    "nome": "Instituto Federal de Mato Grosso",
+    "url": "https://integra.ifmt.edu.br",
+    "uf": "MT"
+  },
+  "IFMS": {
+    "nome": "Instituto Federal de Mato Grosso do Sul",
+    "url": "https://integra.ifms.edu.br",
+    "uf": "MS"
+  },
+  "IFPA": {
+    "nome": "Instituto Federal do Pará",
+    "url": "https://integra.ifpa.edu.br",
+    "uf": "PA"
+  },
+  "IFPB": {
+    "nome": "Instituto Federal da Paraíba",
+    "url": "https://integra.ifpb.edu.br",
+    "uf": "PB"
+  },
+  "IFPE": {
+    "nome": "Instituto Federal de Pernambuco",
+    "url": "https://integra.ifpe.edu.br",
+    "uf": "PE"
+  },
+  "IFSertaoPE": {
+    "nome": "Instituto Federal do Sertão Pernambucano",
+    "url": "https://integra.ifsertao-pe.edu.br",
+    "uf": "PE"
+  },
+  "IFPI": {
+    "nome": "Instituto Federal do Piauí",
+    "url": "https://integra.ifpi.edu.br",
+    "uf": "PI"
+  },
+  "IFPR": {
+    "nome": "Instituto Federal do Paraná",
+    "url": "https://integra.ifpr.edu.br",
+    "uf": "PR"
+  },
+  "IFRJ": {
+    "nome": "Instituto Federal do Rio de Janeiro",
+    "url": "https://integra.ifrj.edu.br",
+    "uf": "RJ"
+  },
+  "IFFLUMINENSE": {
+    "nome": "Instituto Federal Fluminense",
+    "url": "http://integra.iff.edu.br",
+    "uf": "RJ",
+    "observacao": "Usa HTTP, não HTTPS"
+  },
+  "IFRN": {
+    "nome": "Instituto Federal do Rio Grande do Norte",
+    "url": "https://integra.ifrn.edu.br",
+    "uf": "RN"
+  },
+  "IFRO": {
+    "nome": "Instituto Federal de Rondônia",
+    "url": "https://integra.ifro.edu.br",
+    "uf": "RO"
+  },
+  "IFRR": {
+    "nome": "Instituto Federal de Roraima",
+    "url": "https://integra.ifrr.edu.br",
+    "uf": "RR"
+  },
+  "IFRS": {
+    "nome": "Instituto Federal do Rio Grande do Sul",
+    "url": "https://integra.ifrs.edu.br",
+    "uf": "RS"
+  },
+  "IFFARROUPILHA": {
+    "nome": "Instituto Federal Farroupilha",
+    "url": "https://integra.iffarroupilha.edu.br",
+    "uf": "RS"
+  },
+  "IFSUL": {
+    "nome": "Instituto Federal Sul-rio-grandense",
+    "url": "https://integra.ifsul.edu.br",
+    "uf": "RS"
+  },
+  "IFSC": {
+    "nome": "Instituto Federal de Santa Catarina",
+    "url": "https://integra.ifsc.edu.br",
+    "uf": "SC"
+  },
+  "IFC": {
+    "nome": "Instituto Federal Catarinense",
+    "url": "https://integra.ifc.edu.br",
+    "uf": "SC"
+  },
+  "IFSP": {
+    "nome": "Instituto Federal de São Paulo",
+    "url": "https://integra.ifsp.edu.br",
+    "uf": "SP"
+  },
+  "IFS": {
+    "nome": "Instituto Federal de Sergipe",
+    "url": "https://integra.ifs.edu.br",
+    "uf": "SE"
+  },
+  "IFTO": {
+    "nome": "Instituto Federal do Tocantins",
+    "url": "https://integra.ifto.edu.br",
+    "uf": "TO"
+  },
+  "CEFET-RJ": {
+    "nome": "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca",
+    "url": "https://integra.cefet-rj.br",
+    "uf": "RJ"
+  },
+  "CEFET-MG": {
+    "nome": "Centro Federal de Educação Tecnológica de Minas Gerais",
+    "url": "https://integra.cefetmg.br",
+    "uf": "MG"
+  }
+}
